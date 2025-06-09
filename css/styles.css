@@ -1,0 +1,33 @@
+header {
+    background-color: #f5f5f5;
+}
+
+a {
+    color: #212121;
+    }
+nav {
+    background-color: rgba(0, 0, 255, 0.3);   }
+.page-nav .link {
+    color: #00bcd4;
+}
+
+.page-nav .link:active {
+    color: #212121;
+}
+
+.club-list .link {
+    color: #ffc107;
+}
+
+.club-list .link:active {
+    color: #ff1744;
+}
+
+.page-nav .link:hover,
+.page-nav .link:focus {
+    color: #18ffff;
+}
+
+.club-list .link:hover,
+.club-list .link:focus {
+    color: #f57f17; }
